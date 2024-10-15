@@ -11,7 +11,7 @@ body {
 }
 nav{
      position: fixed;
-     background:#1b1b1b;
+     background:#001435;
      width: 100%;
      z-index: 12;
 }
@@ -28,7 +28,7 @@ nav .menu{
 }
 .menu .logo a{
      text-decoration: none;
-     color: #fff;
+     color: #ffffef;
      font-size: 35px;
      font-weight: 600;
 }
@@ -40,7 +40,7 @@ nav .menu{
 }
 .menu ul li a{
      text-decoration: none;
-     color: #fff;
+     color: #ffffe1;
      font-size: 18px;
      font-weight: 500;
      padding: 8px 15px;
@@ -61,7 +61,7 @@ nav .menu{
           position: absolute;
           height: 100%;
           width: 100%;
-          background: rgba(0,0,0,0.4);
+          background: rgba(0, 16, 27, 0.4);
 }
 
 .menu .logo a {
@@ -80,12 +80,12 @@ nav .menu{
           text-align: center;
 }
 .center .title{
-          color: #fff;
+          color: #fff9f4;
           font-size: 55px;
           font-weight: 600;
 }
 .center .sub_title{
-          color: #fff;
+          color: #f5fffd;
           font-size: 52px;
           font-weight: 600;
 }
@@ -98,7 +98,7 @@ nav .menu{
           border-radius: 5px;
           border: none;
           margin: 0 10px;
-          border: 2px solid #fff;
+          border: 2px solid #feffef;
           font-size: 20px;
           font-weight: 500;
           padding: 0 10px;
@@ -107,7 +107,7 @@ nav .menu{
           transition: all 0.3s ease;
 }
 .center .btns button:first-child{
-          color: #fff;
+          color: #fffeef;
           background: none;
 }
 
@@ -116,14 +116,4 @@ nav .menu{
 }
 .center .btns button:nth-child(2):hover {
      background: rgb(234, 237, 145); /* Change to green on hover */
-}
-
-.center {
-     display: flex; /* Use flexbox */
-     flex-direction: column; /* Stack items vertically */
-     justify-content: center; /* Center content vertically */
-     align-items: center; /* Center content horizontally */
-     padding: 20px; /* Padding around the content */
-     text-align: center;
-     margin-bottom: 100px; /* Space for footer */
 }
