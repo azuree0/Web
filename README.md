@@ -10,4 +10,4 @@ New museum landing page.
 
 Laptop landing page
 
-![laptop s](https://github.com/user-attachments/assets/e471441c-8148-4375-8267-a84e920198be)
+![laptop s](https://github.com/user-attachments/assets/bd2fe295-9070-4bdb-acad-d8774667371f)
