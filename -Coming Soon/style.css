@@ -1,0 +1,59 @@
+.columns {
+    max-width: 10%;
+}
+.museum {
+    max-width: 45%;
+    margin-top: 20px;
+}
+
+footer {
+    padding-right: 80px;
+    margin-top: 50px;
+    font-size: 0.9em;
+}
+body {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(253, 246, 236);
+    color: rgb(59, 36, 0);
+}
+input[type="text"],
+input[type="submit"] {
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid transparent;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+input[type="text"]:hover,
+input[type="submit"]:hover {
+    background-color: rgb(255, 231, 210); 
+    border-color: rgb(255, 240, 165);
+} 
+p {
+    font-size: 1.2em;
+    margin: 20px 0;
+    display: flex;
+    align-items: center; /* Vertically center the text and icons */
+    justify-content: center; /* Center the content in the paragraph */
+}
+
+.social-icons {
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Vertically center the icons */
+    margin-left: 10px; /* Add space between the text and icons */
+}
+.social-icons img {
+    width: 23px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
+footer {
+    margin-top: 40px;
+    text-align: center; /* Center-aligns the text */
+    padding: 0; /* Optional: Remove padding if needed */
+}
+footer a {
+    margin: 5px; /* Adjust the horizontal space as needed */
+    text-decoration: none; /* Optional: Remove underline */
+    color: inherit; /* Optional: Inherit color from footer */
+}
