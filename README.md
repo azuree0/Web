@@ -2,7 +2,7 @@
 
 Studio landing page.
 
-![arch](https://github.com/user-attachments/assets/0e8fba97-527f-49de-ac63-6200661c5ae4)
+![arch s](https://github.com/user-attachments/assets/429310e0-5ca8-44ab-8ec8-aea37454bc04)
 
 <br><br><br>
 
