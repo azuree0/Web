@@ -1,3 +1,11 @@
+<h2 style="font-size: 15px;">Architect</h2>
+
+Studio landing page.
+
+![arch](https://github.com/user-attachments/assets/0e8fba97-527f-49de-ac63-6200661c5ae4)
+
+<br><br><br>
+
 <h2 style="font-size: 15px;">Coming Soon</h2>
 
 New museum landing page.
