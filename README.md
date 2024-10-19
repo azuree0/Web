@@ -1,6 +1,6 @@
 <h2 style="font-size: 15px;">Coming Soon</h2>
 
-Martian architecture.
+Future.
 
 ![mars arch s](https://github.com/user-attachments/assets/edef43e6-c089-4f46-90e3-b085bbc6f132)
 
