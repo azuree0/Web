@@ -2,7 +2,7 @@
 
 Future.
 
-![mars arch s](https://github.com/user-attachments/assets/edef43e6-c089-4f46-90e3-b085bbc6f132)
+![mars arch s](https://github.com/user-attachments/assets/bb207dea-97f2-4182-86cd-83a63cf609ce)
 
 <br><br><br>
 
