@@ -2,7 +2,7 @@
 
 Martian architecture.
 
-![mars arch](https://github.com/user-attachments/assets/dc983838-de8d-47cb-84be-bc0cf239524f)
+![mars arch s](https://github.com/user-attachments/assets/edef43e6-c089-4f46-90e3-b085bbc6f132)
 
 <br><br><br>
 
