@@ -6,11 +6,6 @@
     margin-top: 20px;
 }
 
-footer {
-    padding-right: 80px;
-    margin-top: 50px;
-    font-size: 0.9em;
-}
 body {
     text-align: center;
     padding: 20px;
@@ -33,24 +28,27 @@ p {
     font-size: 1.2em;
     margin: 20px 0;
     display: flex;
-    align-items: center; /* Vertically center the text and icons */
-    justify-content: center; /* Center the content in the paragraph */
+    align-items: center; 
+    justify-content: center; 
 }
 
 .social-icons {
-    display: flex; /* Use flexbox for alignment */
-    align-items: center; /* Vertically center the icons */
-    margin-left: 10px; /* Add space between the text and icons */
+    display: flex; 
+    align-items: center; 
+    margin-left: 10px; 
 }
 .social-icons img {
-    width: 23px; /* Adjust width as needed */
-    height: auto; /* Maintain aspect ratio */
+    width: 23px; 
+    height: auto; 
 }
 
 footer {
     margin-top: 40px;
-    text-align: center; /* Center-aligns the text */
-    padding: 0; /* Optional: Remove padding if needed */
+    text-align: center; 
+    padding: 0; 
+    padding-right: 80px;
+    margin-top: 50px;
+    font-size: 0.9em;
 }
 footer a {
     margin: 5px; /* Adjust the horizontal space as needed */
