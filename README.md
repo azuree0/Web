@@ -1,4 +1,4 @@
-<h2 style="font-size: 15px;">Coming Soon</h2>
+<h2 style="font-size: 15px;">Landing Page</h2>
 
 ![mars arch s](https://github.com/user-attachments/assets/bb207dea-97f2-4182-86cd-83a63cf609ce)
 
