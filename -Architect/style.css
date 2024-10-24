@@ -114,3 +114,13 @@ a:hover {
     color: #723d00; /* Change text color on hover */
     box-shadow: 0 0 10px rgba(55, 29, 0, 0.5); /* Light effect */
 }
+
+.social-icons {
+    display: flex; 
+    align-items: center; 
+    margin-left: 10px; 
+}
+.social-icons img {
+    width: 23px; 
+    height: auto; 
+}
