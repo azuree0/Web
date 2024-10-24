@@ -117,3 +117,13 @@ nav .menu{
 .center .btns button:nth-child(2):hover {
      background: rgb(234, 237, 145); /* Change to green on hover */
 }
+
+.social-icons {
+     display: flex; 
+     align-items: center; 
+     margin-left: 10px; 
+}
+.social-icons img {
+     width: 23px; 
+     height: auto; 
+}
