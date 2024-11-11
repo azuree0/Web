@@ -4,7 +4,7 @@
 
 <br>
 
-![mars arch s2](https://github.com/user-attachments/assets/8c13bb51-0efa-42f6-9a36-1b5b59be1902)
+![mars arch s2](https://github.com/user-attachments/assets/8e601dd9-bf1a-49ca-8fc5-7e748f425d74)
 
 <br>
 
