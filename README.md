@@ -36,12 +36,12 @@
 
 <br>
 
-![laptop s2](https://github.com/user-attachments/assets/68d2a893-b9eb-4ea5-8d86-7537cb559348)
+![laptop s2](https://github.com/user-attachments/assets/01b4290a-a251-4961-a4c8-cf999f628c8f)
 
 <br>
 
-![laptop s3](https://github.com/user-attachments/assets/9ec394ab-fc19-418f-b1fe-4f589b5160ae)
+![laptop s3](https://github.com/user-attachments/assets/3f50226a-8990-4ba2-b2b4-f816f41fc823)
 
 <br>
 
-![laptop s4](https://github.com/user-attachments/assets/e4258555-9b95-4767-87d9-31a158705c9d)
+![laptop s4](https://github.com/user-attachments/assets/cfead717-f475-4c17-a7f7-39404e5d3644)
