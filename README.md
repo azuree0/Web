@@ -18,15 +18,15 @@
 
 <br>
 
-![arch s2](https://github.com/user-attachments/assets/04a48956-2b6f-4736-9cba-c8938a989efd)
+![arch s2](https://github.com/user-attachments/assets/27ade1fc-3df7-4ed6-affd-42b26d9ae54d)
 
 <br>
 
-![arch s3](https://github.com/user-attachments/assets/5d4d03a9-2695-4cd0-a0b3-8f190389b226)
+![arch s3](https://github.com/user-attachments/assets/c3707134-107e-41d7-a17f-06cf2a003a18)
 
 <br>
 
-![arch s4](https://github.com/user-attachments/assets/41e10671-db22-42c2-8674-73c9d8c553de)
+![arch s4](https://github.com/user-attachments/assets/e1294930-d4ab-4660-97db-903a59c74846)
 
 <br><br><br>
 
