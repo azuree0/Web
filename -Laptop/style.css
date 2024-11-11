@@ -134,14 +134,26 @@ nav .menu{
      margin-top: 10px; 
      margin-left: 1000px;
 }  
+.ii1 { 
+     font-size: 30px;
+     margin-left: 1010px;
+}
 .i2 {
      width: 800px; 
      height: 400px; 
      margin-top: 10px; 
      margin-left: 1380px;
+}
+.ii2 { 
+     font-size: 30px;
+     margin-left: 1390px;
 }    
-.g{
+.i3{
      width: 1300px; 
      height: 1500px; 
      margin-left: 1000px;
 }
+.ii3 { 
+     font-size: 30px;
+     margin-left: 1030px;
+}  
