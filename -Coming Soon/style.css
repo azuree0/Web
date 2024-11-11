@@ -55,3 +55,6 @@ footer a {
     text-decoration: none; /* Optional: Remove underline */
     color: inherit; /* Optional: Inherit color from footer */
 }
+h1 {
+    font-size: 70px; /
+}
