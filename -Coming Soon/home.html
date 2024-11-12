@@ -5,11 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hello World</title>
     <link rel="stylesheet" href="style.css">
+    <script>
+        function handleSubmit(event) {
+            event.preventDefault(); 
+            const emailInput = document.querySelector('input[type="text"]');
+            alert(`Thank you for subscribing with ${emailInput.value}!`);
+            emailInput.value = ''; 
+        }
+    </script>
 </head>
-<body>
-    <nav>         
+<body>       
     <img src="column.png" class="columns">
-        <h1>We're Coming Soon</h1>
+        <h1>We're Coming Soon</h1> 
         <p>
             Martian architecture.
             <span class="social-icons">
