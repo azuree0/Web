@@ -10,13 +10,13 @@
 
 <br><br><br>
 
-<h2 style="font-size: 15px;">Weather App</h2> 
+<h2 style="font-size: 15px;">E-commerce</h2> 
 
 ![laptop s](https://github.com/user-attachments/assets/1c1d3aa6-51ca-49b6-b3d0-76818bbb50f0)
 
 <br><br><br>
 
-<h2 style="font-size: 15px;">E-commerce</h2> 
+<h2 style="font-size: 15px;">Weather App</h2> 
 
 ![Screenshot 2025-06-01 044244](https://github.com/user-attachments/assets/d4427175-247b-4b90-bbb9-df65bf50d086)
 
