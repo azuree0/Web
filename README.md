@@ -10,7 +10,7 @@
 
 <br><br><br>
 
-<h2 style="font-size: 15px;">E-commerce</h2> 
+<h2 style="font-size: 15px;">Weather App</h2> 
 
 ![laptop s](https://github.com/user-attachments/assets/1c1d3aa6-51ca-49b6-b3d0-76818bbb50f0)
 
