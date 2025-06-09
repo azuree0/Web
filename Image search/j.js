@@ -10,26 +10,22 @@ const categoryContainer = document.createElement("div");
 
 let keyword = "";
 let page = 1;
-let totalResults = 0; // To track total images available
-let isLoading = false; // To manage loading state
+let totalResults = 0; 
+let isLoading = false; 
 
 function initializeUI() {
-    // Clear button
     clearBtn.id = "clear-btn";
     clearBtn.textContent = "Clear Search";
     clearBtn.style.display = "none";
     clearBtn.setAttribute("aria-label", "Clear search input and results");
     searchForm.appendChild(clearBtn);
 
-    // Image count display
     imageCount.id = "image-count";
     imageCount.style.textAlign = "center";
     imageCount.style.margin = "10px 0";
     searchResult.before(imageCount);
 
-    // Category suggestions
     categoryContainer.id = "category-container";
-    // Remove style.margin and textAlign, let CSS handle it
     const categories = ["Nature", "City", "Technology", "Animals", "Food"];
     categories.forEach((category) => {
         const btn = document.createElement("button");
