@@ -6,8 +6,8 @@
 }
 body {
     display: flex;
-    flex-direction: column; /* Allow footer to stay at the bottom */
-    min-height: 100vh; /* Ensures the body takes at least the full height of the viewport */
+    flex-direction: column; 
+    min-height: 100vh; 
 }
 nav{
     position: fixed;
@@ -50,7 +50,7 @@ nav .menu{
 }
 
 .img{
-        background: url(arch.jpeg) no-repeat;
+        background: url(I/arch.jpeg) no-repeat;
         height: 100vh;
         width: 100%;
         background-size: cover;
@@ -66,10 +66,10 @@ nav .menu{
 }
 
 .menu .logo a {
-    font-size: 28px; /* Smaller logo font on mobile */
+    font-size: 28px;
 }
 .menu ul li a {
-    font-size: 16px; /* Smaller menu item font on mobile */
+    font-size: 16px; 
 }
 .center{
          position: absolute;
@@ -110,9 +110,9 @@ a {
 }
 
 a:hover {
-    background-color: #c0b097; /* Light background on hover */
-    color: #723d00; /* Change text color on hover */
-    box-shadow: 0 0 10px rgba(55, 29, 0, 0.5); /* Light effect */
+    background-color: #c0b097; 
+    color: #723d00; 
+    box-shadow: 0 0 10px rgba(55, 29, 0, 0.5); 
 }
 
 .social-icons {
