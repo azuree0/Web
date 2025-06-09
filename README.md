@@ -24,7 +24,9 @@
 
 <h2 style="font-size: 15px;">Weather App</h2> 
 
-![Screenshot 2025-06-01 044244](https://github.com/user-attachments/assets/d4427175-247b-4b90-bbb9-df65bf50d086)
+![Screenshot 2025-06-09 222738](https://github.com/user-attachments/assets/76cab35e-7a15-403a-8977-4fef58bc8ec9)
+
+<br><br><br>
 
 <h2 style="font-size: 15px;">Form Validation</h2> 
 
