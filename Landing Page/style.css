@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif; 
+}
+
+body {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(253, 246, 236);
+    color: rgb(59, 36, 0);
+}
+
+.columns {
+    max-width: 10%;
+}
+
+.mars-arch {
+    max-width: 45%;
+    margin-top: 20px;
+}
+
+input[type="text"],
+input[type="submit"] {
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid transparent;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+input[type="text"]:hover,
+input[type="submit"]:hover {
+    background-color: rgb(255, 231, 210); 
+    border-color: rgb(255, 240, 165);
+} 
+
+p {
+    font-size: 1.2em;
+    margin: 20px 0;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+}
+
+.social-icons {
+    display: flex; 
+    align-items: center; 
+    margin-left: 10px; 
+}
+
+.social-icons img {
+    width: 23px; 
+    height: auto; 
+    transition: transform 0.3s ease; 
+}
+
+.social-icons img:hover {
+    transform: scale(1.2); 
+}
+
+footer {
+    margin-top: 40px;
+    text-align: center; 
+    padding: 0; 
+    padding-right: 80px;
+    font-size: 0.9em;
+}
+
+footer a {
+    margin: 5px; 
+    text-decoration: none; 
+    color: inherit; 
+}
+
+h1 {
+    font-size: 70px; 
+    opacity: 0; 
+    transform: translateY(20px); 
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+h1.visible {
+    opacity: 1; 
+    transform: translateY(0); 
+}
+
+.fade-in {
+    opacity: 0;
+    transition: opacity 1s ease-in;
+}
+
+.fade-in.visible {
+    opacity: 1;
+}
