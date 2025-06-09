@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Form Validation</title>
@@ -8,38 +8,48 @@
 </head>
 <body>
     <div class="container">
-        <form>
+        <form id="contact-form">
             <i class="fas fa-paper-plane"></i>
 
             <div class="input-group">
-                <label>Full Name</label>
-                <input type="text" placeholder="Enter your name" id="contact-name" onkeyup="validateName()">
+                <label for="contact-name">Full Name</label>
+                <input type="text" placeholder="Enter your name" id="contact-name" onkeyup="validateName()" aria-describedby="name-error">
                 <span id="name-error"></span>
             </div>
             
             <div class="input-group">
-                <label>Phone No.</label>
-                <input type="text" placeholder="123 456 7890" id="contact-phone" onkeyup="validatePhone()">
+                <label for="contact-phone">Phone No.</label>
+                <input type="text" placeholder="123 456 7890" id="contact-phone" onkeyup="validatePhone()" aria-describedby="phone-error">
                 <span id="phone-error"></span>
             </div>
             
             <div class="input-group">
-                <label>Email Id</label>
-                <input type="email" placeholder="Enter Email" id="contact-email" onkeyup="validateEmail()">
+                <label for="contact-email">Email Id</label>
+                <input type="email" placeholder="Enter Email" id="contact-email" onkeyup="validateEmail()" aria-describedby="email-error">
                 <span id="email-error"></span>
             </div>
 
             <div class="input-group">
-                <label>Your Message</label>
-                <textarea rows="5" placeholder="Enter your message" id="contact-message" onkeyup="validateMessage()"></textarea>
-                <span id="message-error"></span>
+                <label for="contact-password">Password</label>
+                <input type="password" placeholder="Enter Password" id="contact-password" onkeyup="validatePassword()" aria-describedby="password-error">
+                <span id="password-error"></span>
             </div>
 
-          <button class="form-button" onclick="return validateForm()">Submit</button>  
-          <span id="submit-error"></span>      
+            <div class="input-group">
+                <label for="contact-message">Your Message</label>
+                <textarea rows="5" placeholder="Enter your message" id="contact-message" onkeyup="validateMessage()" aria-describedby="message-error"></textarea>
+                <span id="message-error"></span>
+                <span id="char-count" class="char-count">0/30 characters</span>
+            </div>
 
-    </form>
+            <div class="button-group">
+                <button type="button" class="form-button clear-btn" onclick="clearForm()">Clear</button>
+                <button type="submit" class="form-button submit-btn" onclick="return validateForm()">Submit</button>
+            </div>
+            <span id="submit-error"></span>
+            <span id="submit-success" class="success-message"></span>
+        </form>
     </div>
-      <script src="script.js"></script>  
+    <script src="script.js"></script>
 </body>
 </html>
