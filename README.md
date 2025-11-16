@@ -25,9 +25,3 @@
 <br><br><br>
 
 ![laptop s2](https://github.com/user-attachments/assets/c5182bd5-4986-4f62-88e6-917f891a9ed5)
-
-<br><br><br>
-
-<h2 style="font-size: 15px;">Image search</h2> 
-
-![Screenshot 2025-06-09 191049](https://github.com/user-attachments/assets/817f6d31-575f-46c7-a782-db0fa647f8cc)
